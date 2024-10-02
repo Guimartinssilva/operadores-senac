@@ -10,3 +10,5 @@ let idade = prompt("Qual é a sua idade?")
 let idadeAmigo = prompt("Qual é a idade do seu melhor amigo ou da sua melhor amiga")
 
 console.log("Sua idade é maior do que a do seu melhor amigo?", +idade > +idadeAmigo);
+
+console.log(idade - idadeAmigo)
